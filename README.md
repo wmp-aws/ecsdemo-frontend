@@ -2,4 +2,8 @@
 
 # Amazon Containers Workshop
 
-This is part of an Amazon Containers workshop at https://ecsworkshop.com or https://eksworkshop.com
+This is forked from an Amazon Containers workshop at https://ecsworkshop.com or https://eksworkshop.com
+
+The front end displays a graphic demonstrating the paths that sample requests are following when initallized, 
+and then again when scaled up.  The source is used as part of the West Monroe Partners reference architecture 
+to demonstrate leveraging modern applicaiton architecture on AWS.
